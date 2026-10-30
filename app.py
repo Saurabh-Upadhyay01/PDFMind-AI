@@ -26,7 +26,7 @@ st.set_page_config(
 # Title
 # --------------------------------
 
-st.title("📚  A Retrieval-Augmented Generation (RAG) Based PDF Question Answering System")
+st.title("📚  PDFMind AI")
 
 st.write(
     "Upload a PDF and ask questions about its content."
